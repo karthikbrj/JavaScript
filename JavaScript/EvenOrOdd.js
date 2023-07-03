@@ -9,5 +9,7 @@ let x=10;
 // }
 let result= x%2===0 ? "even" : "odd";
 console.log(result);
+// this is result
+
 
     
