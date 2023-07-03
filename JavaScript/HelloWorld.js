@@ -5,5 +5,6 @@
 // console.log(user);
 // // console.log(high);
 // console.log(typeof user);
-let num=-12/0
-console.log(Number.MAX_VALUE * 10);
+// let num=-12/0
+// console.log(Number.MAX_VALUE * 10);
+console.log("hi");
