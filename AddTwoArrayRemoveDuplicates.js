@@ -7,3 +7,4 @@ function removeDuplicates(array) {
 }
 let uniqueArray=removeDuplicates(arr3);
 console.log(uniqueArray);
+

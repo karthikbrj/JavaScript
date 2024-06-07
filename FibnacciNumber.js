@@ -14,3 +14,5 @@ function fibonacciSeries(number) {
 }
 let number=fibonacciSeries(num);
 console.log(number);
+
+

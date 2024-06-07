@@ -6,3 +6,4 @@ function reverseArray(string){
 }
 let reversedString =reverseArray(str);
 console.log(reversedString);
+

@@ -12,3 +12,5 @@ function kthSmallestelements(array,elements) {
   }
   let small=kthSmallestelements(arr,elements);
   console.log(small);
+
+  

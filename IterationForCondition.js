@@ -20,3 +20,4 @@ for (let i = 1; i <= number; i++) {
 }
 }
 print(number,str,str1,str2)
+

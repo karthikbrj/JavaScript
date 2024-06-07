@@ -11,3 +11,4 @@ function reverse(array) {
 }
 let reverseArray=reverse(arrayNumber);
 console.log(reverseArray);
+

@@ -4,3 +4,4 @@ function removeDuplicates(array) {
 }
 let uniqueItems=removeDuplicates(fruits);
 console.log(uniqueItems);
+
